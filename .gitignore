@@ -1,0 +1,14 @@
+*.sbr
+*.bsc
+*.log
+*.tlog
+*.obj
+*.asm
+*.db
+*.sdf
+*.htm
+Win/*
+!Win/*.dll
+!Win/*.sln
+!Win/*.vcxproj
+!Win/*.vcxproj.*
